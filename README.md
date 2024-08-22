@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 🎓 I'm a BSc Electrical and Computer Engineering graduate from Addis Ababa University
+* 🎓 I'm a BSc Electrical and Computer Engineering graduate from Hawassa University
 * 🌱 Currently learning AWS
 * 🤝 Open to collaborate in Full Stack or ML projects
 
