@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * 🎓 I'm a BSc Electrical and Computer Engineering graduate from Hawassa University
-* 🌱 Currently learning AWS
+* 🌱 Currently learning Front-End Web Pro-Development
 * 🤝 Open to collaborate in Full Stack or ML projects
 
 ### Socials:
